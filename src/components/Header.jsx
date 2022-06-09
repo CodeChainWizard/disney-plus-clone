@@ -44,8 +44,6 @@ const Nav = styeld.nav`
     display: flex;
     align-items: center;
     padding: 0 30px;
-    position: sticky;
-    top: 0;
     overflow: hidden;
 `;
 
